@@ -1,13 +1,4 @@
-# Virtual Assistance For The Blind 
-
-<br>
-
-![](https://img.shields.io/github/forks/Candida18/Virtual-Assistance-For-The-Blind?style=for-the-badge) &emsp;  &emsp; 
-![](https://img.shields.io/github/stars/Candida18/Virtual-Assistance-For-The-Blind?style=for-the-badge) &emsp;  &emsp; 
-![](https://img.shields.io/github/license/Candida18/Virtual-Assistance-For-The-Blind?style=for-the-badge) &emsp; 
-
-<br>
-
+# Virtual Based Email System For The Blind 
 ## ABSTRACT : 
 <p align="justify">One of the most used forms of communication among people is Email. A lot of confidential and urgent information is exchanged over emails in today’s time. There are about 253 million visually impaired people worldwide. These visually impaired people are facing a problem of communication. Since technology is growing day by day, these visually challenged people feel that they are more challenged.</p>
 
@@ -56,8 +47,20 @@ So, we proposed a Voice-based Email System using AI that will make the email sys
 
  </ul><br/>
  
+## PRE REQUIREMENTS TO CONNECT GMAIL API :
+In the Google Cloud console, go to Menu menu > APIs & Services > Credentials.
+Go to Credentials
+
+Click Create Credentials > OAuth client ID.
+Click Application type > Desktop app.
+In the Name field, type a name for the credential. This name is only shown in the Google Cloud console.
+Click Create. The OAuth client created screen appears, showing your new Client ID and Client secret.
+Click OK. The newly created credential appears under OAuth 2.0 Client IDs.
+Save the downloaded JSON file as credentials.json, and move the file to your working directory.
 ## RUN USING :
+`pip install -r requirements.txt`
 `python manage.py runserver`
+
 
 <br>
 
