@@ -1,0 +1,10 @@
+Django==2.1.1
+gTTS==2.2.4
+playsound==1.2.2
+SpeechRecognition==3.8.1
+openai-whisper
+pydub
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib
+fuzzywuzzy
