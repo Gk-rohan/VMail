@@ -36,7 +36,7 @@ model = whisper.load_model('base')
 
 # # <--------------------------------------------EXTRA---------------------------------------->
 email_list=["dbz26102001@gmail.com","guptarohandec@gmail.com","bansalpriyanshu@gmail.com", "priyanshu.bansal8040@gmail.com"]
-password_list=["isuvshdhijdowjd","cnqiignfzdtsxocg","whdiwhdwhdowdow"]
+password_list=["isuvshdhijdowjd","","whdiwhdwhdowdow"]
 # # <--------------------------------------------EXTRA---------------------------------------->
 
 # <--------------------------------------------EXTRA---------------------------------------->
